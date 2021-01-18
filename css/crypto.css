@@ -1,0 +1,437 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Graphik, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+}
+
+
+/*Patie header menu*/
+
+#petite_bande_bleue {
+  background-color: #016197;
+  height: 50px;
+}
+
+#petite_bande_bleue p {
+  line-height: 50px;
+  color: white;
+  font-family: Graphik, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+}
+
+header {
+  height: 250px;
+}
+
+iframe
+{
+}
+
+#logo-site-header {
+  position: relative;
+  top: -20px;
+  left: 150px;
+}
+
+#navigation-header nav ul {
+  padding-left: 0;
+  margin-left: 30%;
+}
+
+#navigation-header nav li {
+  width: 200px;
+  text-align: center;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  margin-top: 25px;
+}
+
+#navigation-header nav>ul>li {
+  display: inline-block;
+  margin-right: 6px;
+  position: relative;
+}
+
+#navigation-header nav>ul>li::after {
+  content: "";
+  position: absolute;
+  right: 40px;
+  top: 12px;
+  border-top: 8px solid #F7931A;
+  border-left: solid 7px transparent;
+  border-right: solid 7px transparent;
+  transition: transform 0.3s ease-in-out;
+}
+
+#navigation-header nav>ul>.exception::after {
+  content: "";
+  position: absolute;
+  right: 1px;
+  top: 12px;
+  border-top: 8px solid #F7931A;
+  border-left: solid 7px transparent;
+  border-right: solid 7px transparent;
+  transition: transform 0.3s ease-in-out;
+}
+
+#navigation-header nav>ul>li:hover::after {
+  transform: rotate(180deg);
+}
+
+#navigation-header nav>ul>li a:hover {
+  color: #F7931A;
+}
+
+#navigation-header nav>ul>li:hover>ul {
+  display: block;
+  border: 1px solid #929395;
+}
+
+#navigation-header nav>ul>li>ul {
+  display: none;
+  position: absolute;
+  left: -30%;
+  top: 100%;
+}
+
+#navigation-header nav>ul>li>ul>li {
+  display: block;
+  margin-top: 5px;
+}
+
+#navigation-header a {
+  color: #13161f;
+  text-decoration: none;
+}
+
+.Co {
+  display: inline-block;
+  float: right;
+}
+
+.Co a {
+  color: black;
+  margin-right: 40px;
+  font-size: 1.1em;
+}
+
+#connexion:hover {
+  color: #F7931A;
+}
+
+#demarre {
+  border: 3px solid #929395;
+  text-decoration: none;
+  border-radius: 30px;
+  font-size: 1.1em;
+  padding: 5px 10px 5px 10px;
+}
+
+#demarre:hover {
+  border: 3px solid #F7931A;
+  transition: 0.5s ease;
+  color: #F7931A;
+}
+
+
+/*General*/
+
+h1 {
+  line-height: 200px;
+  text-align: center;
+  font-size: 35px;
+  padding: 32px;
+  margin-bottom: 30px;
+  color: white;
+}
+
+.contenu {
+  padding: 20px 30px;
+  background: #fff;
+  border-radius: 6px;
+  border: 2px solid #2A2727;
+}
+
+
+/* Version portable */
+
+
+/*Partie sur le footer*/
+
+
+/*Intro*/
+
+#fondIntro {
+  background-image: url("../images/fondNoir.png");
+  background-size: cover;
+  height: 400px;
+}
+
+.fa-money-bill-alt {
+  font-size: 1.5em;
+  margin-right: 15px;
+}
+
+#intro {
+  margin-top: 10px;
+  margin-left: 100px;
+  margin-right: 100px;
+  text-align: justify;
+  font-size: 23px;
+  margin-bottom: 20px;
+}
+
+
+/*video*/
+
+#video {
+  text-align: center;
+}
+
+
+/*separation*/
+
+#footer-separation {
+  background-image: url("../images/footerRetourne.png");
+  background-size: cover;
+  height: 500px;
+  margin-top: 500px;
+}
+
+.intro {
+  display: inline-block;
+}
+
+.gauche {
+  float: left;
+}
+
+.droite {
+  float: right;
+  margin-top: 50px;
+  font-size: 20px;
+}
+
+p {}
+
+#minage {
+  padding-top: 20px;
+  height: 300px;
+}
+
+#fondnoir {
+  background-color: #13161f;
+  height: 20px;
+  margin-top: 80px;
+}
+
+p.colonne {
+  padding-bottom: 20px;
+  padding-right: 50px;
+  column-count: 1;
+  text-align: justify;
+  font-size: 25px;
+  margin-top: 5%;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+#image {
+  margin-right: 50px;
+  width: 40%;
+  height: 40%;
+  float: right;
+}
+
+#finIntro {
+  margin-top: 50px;
+  font-size: 25px;
+  margin-left: 100px;
+}
+
+
+/*Bitcoin*/
+
+.bitcoinColonne {
+  margin-top: 0;
+  margin-left: 100px;
+  margin-right: 100px;
+  text-align: justify;
+  font-size: 25px;
+}
+
+b {
+  color: #016197;
+}
+
+#bitcoinImage {
+  margin-left: 50px;
+  margin-right: 50px;
+  width: 40%;
+  height: 40%;
+  float: left;
+}
+
+
+/*ether*/
+#ether{
+  margin-top: 15%;
+}
+.EtherColonne {
+  margin-left: 100px;
+  margin-right: 100px;
+  text-align: justify;
+  font-size: 25px;
+}
+
+b {
+  color: #016197;
+}
+
+#EtherImage {
+  margin-left: 50px;
+  margin-right: 50px;
+  width: 40%;
+  height: 40%;
+  float: right;
+}
+
+
+/*Ripple*/
+
+#ripple {
+  margin-top: 15%;
+  margin-bottom: 20%;
+}
+
+.RippleColonne {
+  margin-left: 100px;
+  margin-right: 100px;
+  text-align: justify;
+  font-size: 25px;
+}
+
+b {
+  color: #016197;
+}
+
+#RippleImage {
+  margin-left: 50px;
+  margin-right: 50px;
+  width: 40%;
+  height: 40%;
+  float: left;
+}
+
+
+/*footer*/
+
+
+/*Partie sur le footer*/
+
+footer {
+  margin-top: 180px;
+  height: 550px;
+}
+
+#footer-haut {
+  height: 500px;
+  background-image: url("../images/footer2.png");
+  background-size: cover;
+}
+
+#footer-haut-haut {
+  height: 180px;
+  position: relative;
+}
+
+#logo-site-footer {
+  position: absolute;
+  top: 20%;
+  margin-left: 42%;
+}
+
+#footer-haut-bas {
+  position: relative;
+}
+
+#partie-don {
+  position: absolute;
+  top: 30%;
+  left: 15%;
+}
+
+#partie-don p {
+  color: white;
+  font-size: 1.3em;
+}
+
+#partie-don a {
+  text-decoration: none;
+  border: 3px solid #F7931A;
+  border-radius: 4px;
+  background-color: #F7931A;
+  color: white;
+  opacity: 0.6;
+}
+
+#partie-don a:hover {
+  opacity: 1;
+  transition: 0.7s ease;
+}
+
+#navigation-footer {
+  margin-left: 50%;
+}
+
+#footer-bas {
+  background-color: black;
+  color: #929395;
+  height: 50px;
+}
+
+#copy-right {
+  line-height: 50px;
+  margin-left: 10%;
+}
+
+#navigation-footer nav ul {
+  padding-left: 0;
+}
+
+#navigation-footer nav li {
+  width: 150px;
+  text-align: center;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
+
+#navigation-footer nav>ul>li {
+  display: inline-block;
+  margin-right: 2px;
+  position: relative;
+}
+
+#navigation-footer nav>ul>li>ul {
+  position: absolute;
+  left: 0;
+  top: 100%;
+}
+
+#navigation-footer nav>ul>li>ul>li {
+  display: block;
+  margin-top: 2px;
+}
+
+.titre-menu {
+  color: #F7931A;
+  text-decoration: none;
+}
+
+.element-menu {
+  color: white;
+  text-decoration: none;
+}

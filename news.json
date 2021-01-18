@@ -1,0 +1,298 @@
+{
+    "data": [
+        {
+            "news_url": "https://cryptopotato.com/six-figure-bitcoin-price-predictions-back-on-the-table/",
+            "image_url": "https://crypto.snapi.dev/images/v1/y/x/bitcoinrocket-min.jpg",
+            "title": "Six-Figure Bitcoin Price Predictions Back on The Table",
+            "text": "The big correction that top analysts had predicted has yet to materialize as Bitcoin prices pushed back towards $40k.",
+            "source_name": "CryptoPotato",
+            "date": "Fri, 15 Jan 2021 01:40:52 -0500",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://coingape.com/ethereum-eth-in-liquidity-crises-as-whales-swallow-3-billion-worth-of-eth/",
+            "image_url": "https://crypto.snapi.dev/images/v1/g/8/ethereum-eth-1000.jpg",
+            "title": "Ethereum (ETH) In Liquidity Crises As Whales Swallow $3 Billion Worth of ETH",
+            "text": "Ethereum (ETH) price has once again surged 9% on daily charts moving past $1200 levels in another attempt to move past its all-time high. At press time, ETH is trading at $1214 with a market cap of $136 billion.",
+            "source_name": "Coingape",
+            "date": "Fri, 15 Jan 2021 01:36:50 -0500",
+            "topics": [
+                "whales"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "ETH"
+            ]
+        },
+        {
+            "news_url": "https://u.today/guggenheims-scott-minerd-stands-by-his-400000-bitcoin-target-but-he-has-major-warning",
+            "image_url": "https://crypto.snapi.dev/images/v1/1/h/6082.jpg",
+            "title": "Guggenheim's Scott Minerd Stands by His $400,000 Bitcoin Target, but He Has Major Warning",
+            "text": "Guggenheim's Scott Minerd has doubled down on his $400,000 Bitcoin call",
+            "source_name": "UToday",
+            "date": "Fri, 15 Jan 2021 01:25:00 -0500",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://coingape.com/79495-2/",
+            "image_url": "https://crypto.snapi.dev/images/v1/t/k/ethereum-classic-thanos-hardfork.jpg",
+            "title": "Ethereum price meets imminent barrier above $1,200 as massive correction lingers",
+            "text": "Ethereum recovers tremendously following a recent breakdown to $900, prices rise above $1,200. ETH/USD is dancing in the confines of a rising wedge pattern; a correction seems imminent in the near-term.",
+            "source_name": "Coingape",
+            "date": "Fri, 15 Jan 2021 01:03:42 -0500",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "ETH"
+            ]
+        },
+        {
+            "news_url": "https://www.newsbtc.com/analysis/eth/ethereum-struggles-near-1250/",
+            "image_url": "https://crypto.snapi.dev/images/v1/w/k/shutterstock-638895124-750x431.jpg",
+            "title": "TA: Ethereum Struggles Near $1,250: Why ETH Remains Attractive On Dips",
+            "text": "Ethereum gained bullish momentum above the $1,150 resistance against the US Dollar. ETH price broke the $1.200 resistance, but it struggled to clear the $1,250 level.",
+            "source_name": "NewsBTC",
+            "date": "Fri, 15 Jan 2021 00:28:27 -0500",
+            "topics": [
+                "tanalysis"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "ETH"
+            ]
+        },
+        {
+            "news_url": "https://modernconsensus.com/cryptocurrencies/bitcoin/chainalysis-asks-did-bitcoin-fund-the-capitol-riots/",
+            "image_url": "https://crypto.snapi.dev/images/v1/0/b/nick-fuentes-1140x819.png",
+            "title": "Chainalysis asks: Did Bitcoin fund the Capitol riots?",
+            "text": "A month before a mob stormed the U.S. Capitol building on Jan. 6, an extremist sent $522,000 in bitcoin to nearly two dozen far-right leaders, including white nationalist streamer Nick Fuentes and the Daily Stormer, a Neo-Nazi website, according to blockchain intelligence firm Chainalysis.",
+            "source_name": "Modern Consensus",
+            "date": "Thu, 14 Jan 2021 23:52:06 -0500",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://news.bitcoin.com/nigerian-youth-propels-the-country-to-the-top-of-google-bitcoin-search-rankings/",
+            "image_url": "https://crypto.snapi.dev/images/v1/2/s/nigerian-youth-propels-the-country-to-the-top-of-google-bitcoin-search-rankings-768x432.jpg",
+            "title": "Nigerian Youth Propels the Country to the Top of Google Bitcoin Search Rankings",
+            "text": "Nigeria, one of the biggest cryptocurrency markets in the world, recently emerged as the country with the highest number of bitcoin searches globally, according to Google Trends data. The data shows that the West African country has a search score of 100, which is more than double that of its nearest rival. Youth-Driven Interest According [\u2026]",
+            "source_name": "Bitcoin",
+            "date": "Thu, 14 Jan 2021 23:15:54 -0500",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://cointelegraph.com/news/block-one-s-bitcoin-reserves-are-now-worth-double-the-entire-eos-market-cap",
+            "image_url": "https://crypto.snapi.dev/images/v1/p/p/840-ahr0chm6ly9zmy5jb2ludgvszwdyyxbolmnvbs91cgxvywrzlziwmjetmdevngyzzmvhmdctztzkzi00nteylwexztatzdliyti2ntrkyjc5lmpwzw.jpg",
+            "title": "Block.one's Bitcoin reserves are now worth double the entire EOS market cap",
+            "text": "Block.one holds a reported 140,000 BTC which is worth around double the EOS market cap. Does that make EOS a buy?",
+            "source_name": "Cointelegraph",
+            "date": "Thu, 14 Jan 2021 23:14:47 -0500",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "BTC",
+                "EOS"
+            ]
+        },
+        {
+            "news_url": "https://coingape.com/right-wing-activists-reportedly-received-large-bitcoin-btc-before-u-s-capitol-riots/",
+            "image_url": "https://crypto.snapi.dev/images/v1/v/x/bitcoin-btc-us-capital-riots.jpg",
+            "title": "Breaking: Right-Wing Activists Reportedly Received Large Bitcoin (BTC) Before U.S. Capitol Riots",
+            "text": "Just as the U.S. Congress lawmakers are working on impeachment proceedings on U.S. President Donald Trump, there's a sensational revelation coming about last week's riots that took place in the U.S. Capitol. As per an exclusive Yahoo News report, right-wing activists received payments in Bitcoin (BTC) a month before from foreign accounts.",
+            "source_name": "Coingape",
+            "date": "Thu, 14 Jan 2021 22:48:42 -0500",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://www.newsbtc.com/analysis/btc/bitcoin-btc-revisits-40k/",
+            "image_url": "https://crypto.snapi.dev/images/v1/b/m/shutterstock-104159111-750x559.jpg",
+            "title": "TA: Bitcoin Revisits $40K, What Are Chances of BTC Hitting New ATH",
+            "text": "Bitcoin price recovered further and surged above the $38,000 resistance against the US Dollar. BTC even spiked above $40,000 and it is likely preparing for more upsides.",
+            "source_name": "NewsBTC",
+            "date": "Thu, 14 Jan 2021 22:38:48 -0500",
+            "topics": [
+                "tanalysis"
+            ],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://cointelegraph.com/news/dot-flip-polkadot-overtakes-xrp-to-become-the-fourth-largest-cryptocurrency",
+            "image_url": "https://crypto.snapi.dev/images/v1/d/c/840-ahr0chm6ly9zmy5jb2ludgvszwdyyxbolmnvbs91cgxvywrzlziwmjetmdevngm3zmvjndetmmm5mi00ndvjltlmzdqtmte3mgjln2fimdzilmpwzw.jpg",
+            "title": "DOT flip: Polkadot overtakes XRP to become the fourth largest cryptocurrency",
+            "text": "DOT is on fire today as it surges up the market cap charts to fourth spot.",
+            "source_name": "Cointelegraph",
+            "date": "Thu, 14 Jan 2021 22:26:08 -0500",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "DOT",
+                "XRP"
+            ]
+        },
+        {
+            "news_url": "https://www.youtube.com/watch?v=WlSpRaeHqPk",
+            "image_url": "https://crypto.snapi.dev/images/v1/v/g/bitcoin-recovers-mt-gox-draft-refund-plan-details-released.jpg",
+            "title": "Bitcoin Recovers, Mt. Gox Draft Refund Plan Details Released",
+            "text": "Bitcoin flirts with record highs again Thursday and Mt. Gox releases draft rehabilitation plan details to return funds recovered from the bankrupted crypto exchange.",
+            "source_name": "Coindesk",
+            "date": "Thu, 14 Jan 2021 21:51:53 -0500",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Video",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://cryptoslate.com/alpha-alarm-the-bitcoin-outlook/",
+            "image_url": "https://crypto.snapi.dev/images/v1/m/m/bitcoin-light-1.jpg",
+            "title": "Alpha Alarm: The Bitcoin outlook",
+            "text": "This analysis was brought to you by Alpha Alarm, a Substack newsletter featuring daily crypto analysis. The post Alpha Alarm: The Bitcoin outlook appeared first on CryptoSlate.",
+            "source_name": "CryptoSlate",
+            "date": "Thu, 14 Jan 2021 21:33:43 -0500",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://cointelegraph.com/news/did-grayscale-push-bitcoin-back-up-to-the-40k-mark",
+            "image_url": "https://crypto.snapi.dev/images/v1/u/r/840-ahr0chm6ly9zmy5jb2ludgvszwdyyxbolmnvbs91cgxvywrzlziwmjetmdevmgeyodrjodmtnzzmny00mjc5lwjkntetndbkotc3ntfkowmxlmpwzw.jpg",
+            "title": "Did Grayscale push Bitcoin back up to the $40K mark?",
+            "text": "Some stats indicate Bitcoin's current rally could be more reliant on institutional investors than ever before.",
+            "source_name": "Cointelegraph",
+            "date": "Thu, 14 Jan 2021 21:29:21 -0500",
+            "topics": [],
+            "sentiment": "Neutral",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://coingape.com/79483-2/",
+            "image_url": "https://crypto.snapi.dev/images/v1/3/h/bitcoin-btc-price-correction.jpg",
+            "title": "Bitcoin displays strong technicals for new record high as futures open interest hit $13 billion",
+            "text": "Bitcoin retests $40,000 after recovery almost 30% in two days. Bitcoin open interest increases 74% from the previous month, suggesting high investor optimism.",
+            "source_name": "Coingape",
+            "date": "Thu, 14 Jan 2021 21:06:33 -0500",
+            "topics": [
+                "futures"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://cointelegraph.com/news/exchanges-running-out-of-eth-with-reserves-plunging-27-in-48-hours",
+            "image_url": "https://crypto.snapi.dev/images/v1/w/s/840-ahr0chm6ly9zmy5jb2ludgvszwdyyxbolmnvbs91cgxvywrzlziwmjetmdevzgm0nwrkzgqtnzzmos00zmq5lwfkmwetndq0nzuznjmwntk0lmpwzw.jpg",
+            "title": "Exchanges running out of ETH with reserves plunging 27% in 48 hours",
+            "text": "Analysts predict Ether may soon hit a new all-time high after ETH reserves on centralized exchanges fell by 27% in two days.",
+            "source_name": "Cointelegraph",
+            "date": "Thu, 14 Jan 2021 21:03:29 -0500",
+            "topics": [],
+            "sentiment": "Negative",
+            "type": "Article",
+            "tickers": [
+                "ETH"
+            ]
+        },
+        {
+            "news_url": "https://cointelegraph.com/news/bitcoin-chases-new-high-as-analyst-says-smart-money-never-stopped-buying",
+            "image_url": "https://crypto.snapi.dev/images/v1/e/j/840-ahr0chm6ly9zmy5jb2ludgvszwdyyxbolmnvbs91cgxvywrzlziwmjetmdevnmuwywvlmdgtzgzjzc00nzlilwe0y2utzmuzymuxyze1zdmwlmpwzw.jpg",
+            "title": "Bitcoin chases new high as analyst says \u2018smart money never stopped' buying",
+            "text": "Increasing trading volume and demand from institutional investors have analysts expecting a new all-time high from Bitcoin price.",
+            "source_name": "Cointelegraph",
+            "date": "Thu, 14 Jan 2021 20:42:37 -0500",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://decrypt.co/54225/tethers-offshore-bank-discloses-large-position-in-bitcoin",
+            "image_url": "https://crypto.snapi.dev/images/v1/f/x/bitcoin-island-gid-2.jpg",
+            "title": "Tether's Offshore Bank Discloses \u2018Large Position' in Bitcoin",
+            "text": "Deltec didn't say which clients it's holding Bitcoin for, however.",
+            "source_name": "Decrypt",
+            "date": "Thu, 14 Jan 2021 19:02:01 -0500",
+            "topics": [
+                "stablecoins"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://news.bitcoin.com/oaktree-capital-chairman-crypto-his-son-owns-bitcoin/",
+            "image_url": "https://crypto.snapi.dev/images/v1/k/f/oaktree-capital-howard-marks-768x432.jpg",
+            "title": "Oaktree Capital Chairman Warms up to Crypto \u2014 Thankful His Son Owns Enough Bitcoin for the Family",
+            "text": "Oaktree Capital co-founder Howard Marks is warming up to cryptocurrency. Once a crypto skeptic, he now says \u201cthankfully\u201d his son is \u201cquite positive on bitcoin\u201d and \u201cowns a meaningful amount for our family.\u201d Howard Marks Warming up to Crypto Howard Marks, co-founder and co-chairman of Oaktree Capital Management, talked about bitcoin in a memo published [\u2026]",
+            "source_name": "Bitcoin",
+            "date": "Thu, 14 Jan 2021 18:35:56 -0500",
+            "topics": [],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        },
+        {
+            "news_url": "https://cointelegraph.com/news/13b-bitcoin-futures-open-interest-reflects-traders-strong-bullish-optimism",
+            "image_url": "https://crypto.snapi.dev/images/v1/h/e/840-ahr0chm6ly9zmy5jb2ludgvszwdyyxbolmnvbs91cgxvywrzlziwmjetmdevnzc1mmq0mgytnjawny00m2ixlwi5ngityzeyndzjmje4ywu2lmpwzw.jpg",
+            "title": "$13B Bitcoin futures open interest reflects traders' strong bullish optimism",
+            "text": "Bitcoin price quickly rallied back to $40,000 but key derivatives indicators show traders are happily flirting with overbought levels.",
+            "source_name": "Cointelegraph",
+            "date": "Thu, 14 Jan 2021 18:13:10 -0500",
+            "topics": [
+                "futures"
+            ],
+            "sentiment": "Positive",
+            "type": "Article",
+            "tickers": [
+                "BTC"
+            ]
+        }
+    ]
+}

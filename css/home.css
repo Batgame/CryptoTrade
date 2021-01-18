@@ -1,0 +1,462 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Graphik, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  background-color: white;
+  background-size: cover;
+}
+
+.container {
+  display: flex;
+  height: 800px;
+  margin: 0;
+  position: relative;
+  margin-bottom: 5%;
+  margin-top: 3%;
+}
+
+.tradeBTC {
+  width: 32%;
+  margin: 1%;
+  border: solid 2px #c0c7cc;
+  border-radius: 4px;
+}
+
+.tradeETH {
+  width: 32%;
+  margin: 1%;
+  display: inline-block;
+  border: solid 2px #c0c7cc;
+  border-radius: 4px;
+}
+
+.tradeXRP {
+  width: 32%;
+  margin: 1%;
+  border: solid 2px #c0c7cc;
+  border-radius: 4px;
+}
+
+.logo {
+  margin-left: 2%;
+  margin-top: 2%;
+  height: 80%;
+}
+
+.top {
+  display: inline-block;
+  width: 100%;
+  border-bottom: solid 2px #eceff1;
+  height: 15%;
+}
+
+.cours {
+  color: black;
+  display: inline-block;
+  width: auto;
+  text-align: left;
+}
+
+.labelSolde {
+  font-size: 30px;
+}
+
+.montantSolde {
+  font-size: 15px;
+}
+
+.solde {
+  color: black;
+  display: inline-block;
+  width: auto;
+  text-align: left;
+  float: right;
+  height: 90%;
+  border-left: solid 2px #eceff1;
+  padding: 1%;
+}
+
+.price {
+  font-size: 42px;
+}
+
+.variation {
+  font-size: 18px;
+  vertical-align: top;
+}
+
+.courbe {
+  height: 50%;
+  text-align: right;
+  padding: 1%;
+  margin-bottom: 7%;
+}
+
+.courbe span {
+  padding: 2%;
+  cursor: pointer;
+}
+
+.courbe div {
+  margin-top: 10%;
+}
+
+a {
+  display: inline;
+}
+
+.containerTrade {
+  height: 190px;
+  margin-top: 10%;
+}
+
+.buy {
+  float: left;
+  width: 49%;
+  height: 100%;
+  text-align: center;
+  border-right: solid 2px #eceff1;
+}
+
+.sell {
+  float: right;
+  width: 49%;
+  height: 100%;
+  text-align: center;
+}
+
+.inputSell {
+  height: 85%;
+}
+
+.inputBuy {
+  height: 85%;
+}
+
+input {
+  width: 40%;
+  margin-bottom: 1%;
+  height: 20%;
+  border: solid 1px black;
+  direction: RTL;
+  border-radius: 5px;
+}
+
+input:hover {
+  border: solid 1px black;
+}
+
+input[type=text]
+{
+  width: 30%;
+}
+
+#sellButton {
+  background-color: #016197;
+  margin-top: 5%;
+  color: white;
+}
+
+#sellButton:hover {
+  background-color: #F7931A;
+  color: white;
+}
+
+#buyButton {
+  background-color: #016197;
+  margin-top: 5%;
+  color: white;
+}
+
+#buyButton:hover {
+  background-color: #F7931A;
+  color: white;
+}
+
+.containerTrade span {
+  font-size: 20px;
+}
+
+@media (max-width: 640px) {
+  .price {
+    font-size: 30%;
+  }
+  .variation {
+    font-size: 10%;
+  }
+  .labelSolde {
+    font-size: 20%;
+  }
+  .montantSolde {
+    font-size: 10%;
+  }
+  .logo {
+    height: 30%;
+  }
+}
+
+
+/* 
+vert : #05b169;
+rouge : #df5f67;
+*/
+
+
+/*header*/
+
+#petite_bande_bleue {
+  background-color: #016197;
+  height: 50px;
+}
+
+#petite_bande_bleue p {
+  line-height: 20px;
+  color: white;
+  font-family: Graphik, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+}
+
+header {
+  height: 280px;
+}
+
+#logo-site-header {
+  position: relative;
+  top: -20px;
+  left: 150px;
+}
+
+#navigation-header nav ul {
+  padding-left: 0;
+  margin-left: 30%;
+}
+
+#navigation-header nav li {
+  width: 200px;
+  text-align: center;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  margin-top: 25px;
+}
+
+#navigation-header nav>ul>li {
+  display: inline-block;
+  margin-right: 6px;
+  position: relative;
+}
+
+#navigation-header nav>ul>li::after {
+  content: "";
+  position: absolute;
+  right: 40px;
+  top: 12px;
+  border-top: 8px solid #F7931A;
+  border-left: solid 7px transparent;
+  border-right: solid 7px transparent;
+  transition: transform 0.3s ease-in-out;
+}
+
+#navigation-header nav>ul>.exception::after {
+  content: "";
+  position: absolute;
+  right: 1px;
+  top: 12px;
+  border-top: 8px solid #F7931A;
+  border-left: solid 7px transparent;
+  border-right: solid 7px transparent;
+  transition: transform 0.3s ease-in-out;
+}
+
+#navigation-header nav>ul>li:hover::after {
+  transform: rotate(180deg);
+}
+
+#navigation-header nav>ul>li a:hover {
+  color: #F7931A;
+}
+
+#navigation-header nav>ul>li:hover>ul {
+  display: block;
+  border: 1px solid #929395;
+}
+
+#navigation-header nav>ul>li>ul {
+  display: none;
+  position: absolute;
+  left: -30%;
+  top: 100%;
+}
+
+#navigation-header nav>ul>li>ul>li {
+  display: block;
+  margin-top: 5px;
+}
+
+#navigation-header a {
+  color: #13161f;
+  text-decoration: none;
+}
+
+.Co {
+  display: inline-block;
+  float: right;
+}
+
+.Co p {
+  color: black;
+  margin-right: 70px;
+  font-size: 1.6em;
+  color: #F7931A;
+}
+
+
+/*intro*/
+
+#fondIntro {
+  background-image: url("../images/fondNoir.png");
+  background-size: cover;
+  height: 400px;
+}
+
+h1 {
+  line-height: 200px;
+  text-align: center;
+  font-size: 35px;
+  padding: 32px;
+  margin-bottom: 30px;
+  color: white;
+}
+
+
+/*footer*/
+
+footer {
+  margin-top: 180px;
+  height: 550px;
+}
+
+#footer-haut {
+  height: 500px;
+  background-image: url("../images/footer2.png");
+  background-size: cover;
+}
+
+#footer-haut-haut {
+  height: 180px;
+  position: relative;
+}
+
+#logo-site-footer {
+  position: absolute;
+  top: 20%;
+  margin-left: 42%;
+}
+
+#footer-haut-bas {
+  position: relative;
+}
+
+#partie-don {
+  position: absolute;
+  top: 30%;
+  left: 15%;
+}
+
+#partie-don p {
+  color: white;
+  font-size: 1.3em;
+}
+
+#partie-don a {
+  text-decoration: none;
+  border: 3px solid #F7931A;
+  border-radius: 4px;
+  background-color: #F7931A;
+  color: white;
+  opacity: 0.6;
+}
+
+#partie-don a:hover {
+  opacity: 1;
+  transition: 0.7s ease;
+}
+
+#navigation-footer {
+  margin-left: 50%;
+}
+
+#footer-bas {
+  background-color: black;
+  color: #929395;
+  height: 50px;
+}
+
+#copy-right {
+  line-height: 50px;
+  margin-left: 10%;
+}
+
+#navigation-footer nav ul {
+  padding-left: 0;
+}
+
+#navigation-footer nav li {
+  width: 150px;
+  text-align: center;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
+
+#navigation-footer nav>ul>li {
+  display: inline-block;
+  margin-right: 2px;
+  position: relative;
+}
+
+#navigation-footer nav>ul>li>ul {
+  position: absolute;
+  left: 0;
+  top: 100%;
+}
+
+#navigation-footer nav>ul>li>ul>li {
+  display: block;
+  margin-top: 2px;
+}
+
+.titre-menu {
+  color: #F7931A;
+  text-decoration: none;
+}
+
+.element-menu {
+  color: white;
+  text-decoration: none;
+}
+
+.erreur
+{
+  text-align: center;
+}
+
+.alert {
+  padding: 20px;
+  background-color: #016197;
+  color: white;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.closebtn {
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.closebtn:hover {
+  color: black;
+}
